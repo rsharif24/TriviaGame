@@ -1,0 +1,29 @@
+body{
+	background-image: url("../images/background.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Arial","Helvetica";
+}
+
+.container{
+	background:rgba(255,255,255, 0.4);
+	margin: 60px;
+}
+
+.wrapper{
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+#content{
+	padding: 30px;
+}
