@@ -47,10 +47,10 @@ $("#content").on("click", "#startButton", function(){
 }
 
 
-    var threeMin = 60 * 3,
+    var twoMins = 60 * 2,
        	display = document.querySelector('#time');
 
-    startTimer(threeMin, display);
+    startTimer(twoMins, display);
 
 });		
 
